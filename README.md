@@ -19,3 +19,8 @@ R fascinates me because it turns statistics and visualization into striking stor
 Git helps me stay organized and collaborate efficiently.  
 By learning these tools, I’ll become a more versatile and confident professional.  
 I’m eager to experiment, embrace mistakes, and grow along the journey.
+
+## 3.7 Add a local image to the readme file:
+# My local image
+Here is a screenshot of my latest R project code.
+![my-image](images/my-image.png)
