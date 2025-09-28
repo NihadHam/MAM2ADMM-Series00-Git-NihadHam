@@ -30,8 +30,6 @@ Here is a screenshot of my latest R project code.
 
 ## Summary :
 
-# What i learned :
-
 ## What I Learned
 
 This assignment helped me get hands-on experience with Git and GitHub, turning theory into practice.  
