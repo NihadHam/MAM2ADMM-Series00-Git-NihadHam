@@ -24,3 +24,17 @@ I’m eager to experiment, embrace mistakes, and grow along the journey.
 # My local image
 Here is a screenshot of my latest R project code.
 ![my-image](images/my-image.png)
+
+
+
+
+## Summary :
+
+# What i learned :
+
+## What I Learned
+
+This assignment helped me get hands-on experience with Git and GitHub, turning theory into practice.  
+I explored creating branches, making commits, pushing changes, and managing files.  
+I also practiced adding images, both from the web and my local computer, and formatting content in Markdown. Using commands like "git branch","git add", "git commit", and "git push" became much more natural through real use.  
+Overall, I spent about 2 hours on this work, and I feel more confident navigating version control and documenting projects.
